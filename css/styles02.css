@@ -41,7 +41,7 @@ h1 {
 nav,
 footer {
     clear: both;
-    color: #ffffff;
+    color: #000000;
     background-color: #aeaca8;
     height: 30px;
 }
@@ -57,7 +57,7 @@ nav li {
 }
 
 nav li a {
-    color: #ffffff;
+    color: #000000;
 }
 
 nav li a:hover,
