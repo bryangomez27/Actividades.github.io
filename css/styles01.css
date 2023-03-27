@@ -75,7 +75,7 @@ fieldset {
 
 legend {
     font-style: italic;
-    color: #000b10;
+    color: #ffffff;
 }
 
 input [type='text'] {
@@ -94,7 +94,7 @@ input [type='text']:hover {
 input [type='submit'] {
     border: 1px solid #006633;
     background-color: #009966;
-    color: #000000;
+    color: #ffffff;
     border-radius: 5px;
     padding: 5px;
     margin-top: 10px;
@@ -103,7 +103,7 @@ input [type='submit'] {
 input [type='submit']:hover {
     border: 1px solid #006633;
     background-color: #00cc33;
-    color: #000000;
+    color: #ffffff;
     cursor: pointer;
 }
 
