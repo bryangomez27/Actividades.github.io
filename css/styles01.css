@@ -35,7 +35,7 @@ td {
 
 tr.head th {
     color: #fff;
-    background-color: #666666;
+    background-color: #000000;
     border-bottom: 2px solid #547ca0;
     border-right: 1px solid #749abe;
     border-top: Ipx solid #90b4d6;
@@ -50,7 +50,7 @@ td {
 
 tr.even td,
 tr.even th {
-    background-color: #666666;
+    background-color: #000000;
 }
 
 tr.head th:first-child {
